@@ -6,9 +6,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Parameters {
    WebDriver driver = new ChromeDriver();
    
-   String MyUrl = "https://www.saucedemo.com/";
-   String UserName = "standard_user";
-   String Password = "secret_sauce";
+   static String MyUrl = "https://www.saucedemo.com/";
+   static String UserName = "standard_user";
+   static String Password = "secret_sauce";
    
 	
 
