@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T20:56:56 EET" name="Default suite" finished-at="2023-11-29T20:56:58 EET" duration-ms="2033">
+    <groups>
+    </groups>
+    <test started-at="2023-11-29T20:56:56 EET" name="Default test" finished-at="2023-11-29T20:56:58 EET" duration-ms="2033">
+      <class name="saucedemo.tests">
+        <test-method is-config="true" signature="mybeforetest()[pri:0, instance:saucedemo.tests@2783717b]" started-at="2023-11-29T20:56:56 EET" name="mybeforetest" finished-at="2023-11-29T20:56:57 EET" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mybeforetest -->
+        <test-method signature="logintest()[pri:1, instance:saucedemo.tests@2783717b]" started-at="2023-11-29T20:56:57 EET" name="logintest" finished-at="2023-11-29T20:56:58 EET" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="AddToCart()[pri:2, instance:saucedemo.tests@2783717b]" started-at="2023-11-29T20:56:58 EET" name="AddToCart" finished-at="2023-11-29T20:56:58 EET" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:saucedemo.tests@2783717b]" started-at="2023-11-29T20:56:58 EET" name="aftertest" finished-at="2023-11-29T20:56:58 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- saucedemo.tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
